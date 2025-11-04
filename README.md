@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge"/>
   </a>
   <a href="https://annamani.github.io/Project--Quiz-Game/" target="_blank">
-  <img src="" alt="My Project Quiz-Game "/>
+  <img src="https://img.shields.io/badge/My_Projects-blue" alt="My Project Quiz-Game "/>
   </a>
 </p>
 
