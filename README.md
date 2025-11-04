@@ -4,11 +4,11 @@
 <h3 align="center">Web Developer</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/kamma-annamani/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Linkedin-blue" alt="LinkedIn Badge"/>
   </a>
   
   <a href="https://codepen.io/your-work" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge"/>
+    <img src="https://img.shields.io/badge/CodePen-blue" alt="CodePen Badge"/>
   </a>
   <a href="https://annamani.github.io/Project--Quiz-Game/" target="_blank">
   <img src="https://img.shields.io/badge/My_Projects-blue" alt="My Project Quiz-Game "/>
