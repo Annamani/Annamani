@@ -1,7 +1,7 @@
 ## About me👋
 
-<h2>Annamani Kamma</h2>
-<h3>Web Developer</h3>
+<h2 style="text-align:center">Annamani Kamma</h2>
+<h3 style="text-align:center">Web Developer</h3>
 
 Here are some ideas to get you started:
 
