@@ -1,7 +1,7 @@
-## Hi there 👋
+## About me👋
 
-<!--
-**Annamani/Annamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Annamani Kamma</h2>
+<h3>Web Developer</h3>
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
