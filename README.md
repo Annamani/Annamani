@@ -1,7 +1,20 @@
 ## About me👋
 
-<h2 style="text-align:center">Annamani Kamma</h2>
-<h3 style="text-align:center">Web Developer</h3>
+<h2 align="center">Annamani Kamma</h2>
+<h3 align="center">Web Developer</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kamma-annamani/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://codepen.io/your-work" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge"/>
+  </a>
+  <a href="https://annamani.github.io/Project--Quiz-Game/" target="_blank">
+  <img src="" alt="My Project Quiz-Game "/>
+  </a>
+</p>
+
 
 Here are some ideas to get you started:
 
