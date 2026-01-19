@@ -1,7 +1,7 @@
 ## About me👋
 
 <h2 align="center">Annamani Kamma</h2>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Junior Web Developer</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/kamma-annamani/" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-blue" alt="LinkedIn Badge"/>
