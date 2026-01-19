@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Linkedin-blue" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://codepen.io/your-work" target="_blank">
+  <a href="https://codepen.io/Annamani-Kamma" target="_blank">
     <img src="https://img.shields.io/badge/CodePen-blue" alt="CodePen Badge"/>
   </a>
   <a href="https://annamani.github.io/Project--Quiz-Game/" target="_blank">
