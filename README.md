@@ -15,15 +15,13 @@
 </p>
 
 <h3>Skills</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge"/>
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest-api&logoColor=white" alt="REST API Badge"/>
-  <img src="https://img.shields.io/badge/Responsive_Design-4CAF50?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Design Badge"/>
-</p>
+<ul>
+  <li><strong>Languages:</strong> HTML, CSS, JavaScript</li>
+  <li><strong>Frontend:</strong> Responsive design, DOM manipulation</li>
+  <li><strong>Backend:</strong> REST APIs, basic SQL</li>
+  <li><strong>Tools:</strong> Git, VS Code</li>
+  <li><strong>Quality Assurance:</strong> Software testing methodologies, bug tracking</li>
+</ul>
 
 <h2>Projects</h2>
 
