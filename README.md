@@ -2,7 +2,7 @@
 
 <h2 align="center">Annamani Kamma</h2>
 <h3 align="center">Junior Web Developer</h3>
-<p>I am leraning Web Developement with 3 years of software testing experience and hands-on training through Hack Your Future. Skilled in building responsive front-end features and developing backend APIs with HTML, CSS, JavaScript, SQL, and REST APIs, backed by strong QA and testing expertise.</p>
+<p>I am learning Web Development with 3 years of software testing experience and hands-on training through Hack Your Future. Skilled in building responsive front-end features and developing backend APIs with HTML, CSS, JavaScript, SQL, and REST APIs, backed by strong QA and testing expertise.</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/kamma-annamani/" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-blue" alt="LinkedIn Badge"/>
