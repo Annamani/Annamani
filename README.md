@@ -12,7 +12,7 @@
   <a href="https://codepen.io/Annamani-Kamma" target="_blank">
     <img src="https://img.shields.io/badge/CodePen-black?logo=codepen&logoColor=white" alt="CodePen Badge"/>
   </a>
-  <a href=" https://annamani.github.io/Annamani-Portfolio/" target="_blank">
+  <a href="https://annamani.github.io/Annamani-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-8A2BE2" alt="Portfolio Badge"/>
   </a>
  
