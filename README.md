@@ -12,6 +12,10 @@
   <a href="https://codepen.io/Annamani-Kamma" target="_blank">
     <img src="https://img.shields.io/badge/CodePen-black?logo=codepen&logoColor=white" alt="CodePen Badge"/>
   </a>
+  <a href=" https://annamani.github.io/Annamani-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio?logoColor=white" alt="Portfolio Badge"/>
+  </a>
+ 
 </p>
 
 <h3>Skills</h3>
