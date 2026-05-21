@@ -1,5 +1,5 @@
 <h2 align="center">Annamani Kamma</h2>
-<h3 align="center">Junior Web Developer</h3>
+<h3 align="center">Backend Developer</h3>
 <p>Building responsive front-end features and backend API logic using modern web technologies. I bring 3 years of software testing experience and hands-on training from Hack Your Future, blending quality assurance expertise with strong development fundamentals.</p>
 
 <h3> About me</h3>
